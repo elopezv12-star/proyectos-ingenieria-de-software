@@ -4,7 +4,7 @@ Este repositorio contiene el prototipo funcional del frontend para el Sistema de
 
 🔗 **Demo en vivo:** [v0-graduation-process-optimization.vercel.app](https://v0-graduation-process-optimization.vercel.app/)
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 Para agilizar el desarrollo y garantizar una interfaz de usuario moderna, responsiva y accesible, este prototipo fue construido con:
 * **Framework:** React / Next.js
 * **Estilos:** Tailwind CSS
@@ -14,7 +14,7 @@ Para agilizar el desarrollo y garantizar una interfaz de usuario moderna, respon
 
 ---
 
-## 🎯 Historias de Usuario Implementadas
+## Historias de Usuario Implementadas
 
 El prototipo cubre a cabalidad los siguientes requerimientos (Issues) asignados:
 
@@ -30,10 +30,3 @@ El prototipo cubre a cabalidad los siguientes requerimientos (Issues) asignados:
 ### Seguridad y Utilidades
 * **HU-07 - Gestión de Roles y Permisos (RBAC):** Módulo de inicio de sesión que simula la validación de credenciales y redirige a vistas protegidas según el rol del usuario (Estudiante, Administrador, Director). Las rutas y el menú de navegación se adaptan dinámicamente.
 * **HU-11 - Validación Pública con QR:** Vista pública, independiente del sistema de login, que simula el escaneo de un código QR impreso en el acta, mostrando su estado de validez y los datos básicos del graduado.
-
----
-
-## 💻 Instalación y Ejecución Local
-
-Si deseas correr este proyecto en tu entorno local para visualizar el código o hacer modificaciones:
-
